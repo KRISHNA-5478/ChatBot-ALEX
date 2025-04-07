@@ -85,7 +85,12 @@ class Chatbot:
                         "tag": "Who developed you",
                         "patterns":["Who developed you","Who created you","By whom you created"],
                         "responses": ["I was developed by Team of four individuls : Krishna Tripathi,Mohini Srivastava,Manuraj Singh,Manas Gupta"]
-                    }
+                    },
+                    {
+                        "tag": "What can you do",
+                        "patterns":["What can you do","for what purpose were you created","what functions can you perform"],
+                        "responses": ["I am a Song Recommender Bot, used to suggest songs depending upon the user's mood"]
+                        
                 ]
             }
             # Save the default intents to file

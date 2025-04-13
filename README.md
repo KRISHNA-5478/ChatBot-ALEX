@@ -77,5 +77,5 @@ We welcome contributions! Feel free to submit issues or contribute to the projec
 This project is licensed under the MIT License.
 
 ---
-Made with ❤️ by a team of passionate developers: Krishna Tripathi, Mohini Srivastava, Manas Gupta, and Manuraj Gupta.
+Made with ❤️ by a team of passionate developers: Krishna Tripathi, Mohini Srivastava, Manas Gupta, and Manuraj Singh.
 

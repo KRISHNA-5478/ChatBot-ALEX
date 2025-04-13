@@ -1,0 +1,11 @@
+Flask==3.0.2
+nltk==3.8.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+
+
+
+pip install nltk && pip freeze | grep nltk >> requirements.txt
+pip install scikit-learn && pip freeze | grep scikit-learn >> requirements.txt
+pip install numpy && pip freeze | grep numpy >> requirements.txt
+pip install Flask && pip freeze | grep Flask >> requirements.txt

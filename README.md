@@ -59,7 +59,7 @@ This project was developed by a dedicated team of four individuals:
   - Designed the logic for emotion-based song matching.
   - Optimized the recommendation algorithm for better accuracy.
 
-- **Manuraj Gupta** – Testing & Debugging Specialist
+- **Manuraj Singh** – Testing & Debugging Specialist
   - Conducted extensive testing for smooth performance.
   - Fixed UI/UX bugs and enhanced the chatbot’s responsiveness.
   - Ensured cross-browser compatibility.
